@@ -1,6 +1,6 @@
 import sys
 import os
-import pdb
+#import pdb debugging purposes.
 from PIL import Image
 
 # Grab first and second argument
@@ -21,4 +21,4 @@ for image in os.listdir(pokedex):
                 img.save(os.path.join(newFolder, newImage))
         except OSError:
             print("cannot convert", image)
-pdb.set_trace()
+#pdb.set_trace()
