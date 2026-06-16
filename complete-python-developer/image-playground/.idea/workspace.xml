@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6528526-ce70-4276-a267-a360d0e0a92f" name="Changes" comment="Merge branch 'main' of https://github.com/edchav/ztm">
+      <change afterPath="$PROJECT_DIR$/../email-playground/.idea/email-playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-playground/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-playground/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-playground/email_sender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;edchav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/edchav/ztm.git&quot;,
+    &quot;accountId&quot;: &quot;d300adba-f30b-4806-a5a8-d15fabc9b2ad&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1000069390983132" />
+      <entry key="MS500" value="2.1665041462366172" />
+      <entry key="S2" value="5.100804981748579" />
+      <entry key="S5" value="8.14916083798604" />
+      <entry key="S10" value="10.681492193794012" />
+      <entry key="S30" value="15.006584966534499" />
+      <entry key="S60" value="17.098139158414277" />
+      <entry key="M2" value="18.433014718634013" />
+      <entry key="M5" value="20.335079625139407" />
+      <entry key="M10" value="32.23542824592878" />
+      <entry key="M15" value="53.98997926759955" />
+      <entry key="M30" value="125.35838077567" />
+      <entry key="H1" value="225.95617847774162" />
+      <entry key="H2" value="332.34004885477697" />
+      <entry key="H4" value="420.3709750367128" />
+      <entry key="D1" value="531.3599222751415" />
+      <entry key="W1" value="572.790334335573" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.4249102589082462E-204" />
+      <entry key="S10" value="1.5572123358451302E-102" />
+      <entry key="S30" value="1.1590867603705294E-34" />
+      <entry key="S60" value="1.076608923257662E-17" />
+      <entry key="M2" value="3.2814201482523118E-9" />
+      <entry key="M5" value="4.13105077768505E-4" />
+      <entry key="M10" value="0.023113515749609105" />
+      <entry key="M15" value="0.09484678156786568" />
+      <entry key="M30" value="0.42970704420249906" />
+      <entry key="H1" value="1.1018384569159483" />
+      <entry key="H2" value="2.113878282579604" />
+      <entry key="H4" value="3.1600284667126104" />
+      <entry key="D1" value="4.766452688673723" />
+      <entry key="W1" value="5.706953202907157" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0466041355156392" />
+      <entry key="MS500" value="2.142160246577459" />
+      <entry key="S2" value="5.083493070852047" />
+      <entry key="S5" value="8.13774012631233" />
+      <entry key="S10" value="10.674068901084262" />
+      <entry key="S30" value="15.003205689281405" />
+      <entry key="S60" value="17.096235250083033" />
+      <entry key="M2" value="18.431698951808798" />
+      <entry key="M5" value="20.330033299700794" />
+      <entry key="M10" value="32.243420720804444" />
+      <entry key="M15" value="54.061540680468966" />
+      <entry key="M30" value="125.75559810549872" />
+      <entry key="H1" value="227.02722877772376" />
+      <entry key="H2" value="334.43071442375907" />
+      <entry key="H4" value="423.5161078677206" />
+      <entry key="D1" value="536.1231861818937" />
+      <entry key="W1" value="578.4967905736438" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EmXF3EgneoZOJHOM6ngYh3ESGl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.JPGtoPNGconverter.executor": "Run",
+    "Python.email_sender.executor": "Run",
+    "Python.images.executor": "Run",
+    "Python.pdf.executor": "Run",
+    "Python.pdf_watermark.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/ed5ch/Desktop/Code & Projects/Github/ZTM/complete-python-developer/image-playground",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6528526-ce70-4276-a267-a360d0e0a92f" name="Changes" comment="" />
+      <created>1780784611537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780784611537</updated>
+      <workItem from="1780784612543" duration="133000" />
+      <workItem from="1780784781890" duration="3133000" />
+      <workItem from="1780801859185" duration="13288000" />
+      <workItem from="1781142727309" duration="2956000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/edchav/ztm">
+      <option name="closed" value="true" />
+      <created>1781145429568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781145429568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/edchav/ztm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/edchav/ztm" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/image_playground$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1781034700279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pdf-playground" />
+    <SUITE FILE_PATH="coverage/image_playground$pdf_watermark.coverage" NAME="pdf_watermark Coverage Results" MODIFIED="1781036501759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pdf-playground" />
+    <SUITE FILE_PATH="coverage/image_playground$JPGtoPNGconverter.coverage" NAME="JPGtoPNGconverter Coverage Results" MODIFIED="1781025874768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/image_playground$email_sender.coverage" NAME="email_sender Coverage Results" MODIFIED="1781145154395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../email-playground" />
+    <SUITE FILE_PATH="coverage/image_playground$images.coverage" NAME="images Coverage Results" MODIFIED="1780804826539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
