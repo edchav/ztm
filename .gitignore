@@ -2,3 +2,4 @@ chromedriver-win64.zip
 chromedriver-win64/
 chromedriver.exe
 .idea/
+resnet50-19c8e357.pth
