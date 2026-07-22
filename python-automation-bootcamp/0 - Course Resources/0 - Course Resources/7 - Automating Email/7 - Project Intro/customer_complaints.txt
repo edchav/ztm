@@ -1,0 +1,65 @@
+CustomerID	 ComplaintDescription
+10123	 Package arrived damaged
+10124	 Product does not match the description
+10125	 Support representative was rude
+10126	 Unable to initiate a return for an eligible item
+10127	 Delivery was delayed without notice
+10128	 Charged twice for the same order
+10129	 Product stopped working after one use
+10130	 Difficulty in navigating the website
+10131	 Tracking information is not updated
+10132	 Received a different color than ordered
+10133	 Refund not processed for a canceled order
+10134	 Long wait time on customer service line
+10135	 Mobile app keeps crashing
+10136	 Received only partial refund for a return
+10137	 Received a defective product
+10138	 Discount code not applied
+10139	 Package left at the wrong address
+10140	 Unable to update cart
+10141	 Chat support disconnected abruptly
+10142	 Return window closed prematurely
+10143	 Missing parts in the package
+10144	 Package was opened upon arrival
+10145	 Search functionality not working
+10146	 Unexpected additional charges
+10147	 Item looks worn out
+10148	 Incorrect information provided by representative
+10149	 Refused return for a damaged item
+10150	 Package marked as delivered but not received
+10151	 Frequent site timeouts
+10152	 Item smells weird
+10153	 Unresponsive email support
+10154	 Charged for a canceled subscription
+10155	 Package took too long to ship
+10156	 Wishlist feature not working
+10157	 Stitching coming off from the side
+10158	 Unexpected tax charges
+10159	 Package stuck in customs
+10160	 Difficulty in changing the password
+10161	 No response to a query for over a week
+10162	 Not refunded the full amount
+10163	 Mismatch in product size
+10164	 Charged for express shipping but received standard
+10165	 App logs out frequently
+10166	 Double billed for a single item
+10167	 Item colors faded after one wash
+10168	 Misinformation about product warranty
+10169	 Product returned but no confirmation received
+10170	 Did not receive all items in a multi-item order
+10171	 Site not optimized for mobile browsing
+10172	 Audio device has static noise
+10173	 Received generic responses to specific queries
+10174	 Charged in a different currency
+10175	 Package sent to an old address despite updating
+10176	 Notifications not working on app
+10177	 Product images were misleading
+10178	 Unexpected membership renewal charge
+10179	 Received someone else's package
+10180	 Unable to apply loyalty points during checkout
+10181	 Follow-up support was lacking
+10182	 Return was rejected without a valid reason
+10183	 Product smelled strange out of the package
+10184	 Delivery was scheduled without prior notice
+10185	 Issue with the product review submission
+10186	 Was not able to avail the new user discount
